@@ -3,7 +3,7 @@ This application detectes and counts the abnormal cells from the given medical i
 - Morphological operations like open (Erode and Dilate)
 - Color information from the image
 
-**Author: Aditya Mhamunkar**
+Author: Aditya Mhamunkar
 Email: amhamun1@binghamton.edu
 --------------------------------------------------------------------
 ### Steps to execute the program
