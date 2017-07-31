@@ -1,0 +1,26 @@
+﻿Build started 7/31/2017 2:41:32 PM.
+     1>Project "c:\Users\adity\documents\visual studio 2012\Projects\assign3\assign3\assign3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include\opencv2 /IC:\opencv\build\include\opencv /IC:\opencv\build\include /Zi /nologo /W3 /WX- /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(41): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(41): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>main.cpp(169): warning C4101: 'ncstructuredElement' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'nt' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'ntstructuredElement' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'nchan' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'nr' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'nchanstructuredElement' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'nrstructuredElement' : unreferenced local variable
+     1>main.cpp(169): warning C4101: 'nc' : unreferenced local variable
+     1>main.cpp(218): warning C4101: 'optimizedGreenThresholdValue' : unreferenced local variable
+     1>main.cpp(218): warning C4101: 'optimizedBlueThresholdValue' : unreferenced local variable
+     1>main.cpp(218): warning C4101: 'optimizedRedThresholdValue' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\adity\documents\visual studio 2012\Projects\assign3\x64\Debug\assign3.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc14\lib opencv_world320d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\adity\documents\visual studio 2012\Projects\assign3\x64\Debug\assign3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\adity\documents\visual studio 2012\Projects\assign3\x64\Debug\assign3.lib" /MACHINE:X64 x64\Debug\main.obj
+         assign3.vcxproj -> c:\users\adity\documents\visual studio 2012\Projects\assign3\x64\Debug\assign3.exe
+     1>Done Building Project "c:\Users\adity\documents\visual studio 2012\Projects\assign3\assign3\assign3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.11
